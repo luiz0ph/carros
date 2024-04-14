@@ -16,10 +16,10 @@ body {
 /* Cabeçalho */
 header {
     margin: 25px 0;
+    text-align: center;
 }
 
-header > h1 {
-    text-align: center;
+header > h1, h2 {
     text-shadow: 1px 1px 8px #0000006e;
 }
 
